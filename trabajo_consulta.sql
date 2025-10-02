@@ -1,0 +1,1 @@
+https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1sstone-net-471601-i6!2skeepcoding!3sivr_detail1a
