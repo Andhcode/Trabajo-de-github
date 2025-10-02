@@ -1,0 +1,1 @@
+postgresql://postgres:Post4gre7@localhost/postgres?statusColor=6D0000&env=local&name=keepcoding%20copy&tLSMode=0&usePrivateKey=false&safeModeLevel=0&advancedSafeModeLevel=0&driverVersion=0&showSystemSchemas=0&driverVersion=0&lazyload=False 
